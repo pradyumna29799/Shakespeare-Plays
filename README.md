@@ -1,8 +1,8 @@
-Shakespeare Plays
+# Shakespeare Plays
 
 This project involves downloading the first 5 text files of Shakespeare's plays from the following URL: http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/ and storing them in a separate folder.
 
-Requirements:
+# Requirements:
 This project was implemented using Python 3.9.7. The following libraries were used:
 requests
 
@@ -14,7 +14,7 @@ requests
 
 4)OS
 
-Instructions:
+# Instructions:
 
 1)Clone this repository or download the files as a zip archive.
 
@@ -32,10 +32,10 @@ Instructions:
 
 8)Find the following information about each file and store it in a single csv: size in bytes, last modified datetime, absolute path.
 
-Results:
+# Results:
 
 The results of the analysis are stored in the results folder. Each analysis is stored in a separate file.
 
-Contact:
+# Contact:
 
 If you have any questions or feedback, please contact me at my email address: pbadave9@gmail.com
